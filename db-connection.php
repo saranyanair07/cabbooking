@@ -2,7 +2,7 @@
 
 $servername = "cabsql.mysql.database.azure.com";
 $username = "Saranya";
-$password = "Krishna12";
+$password = "Krishna2002#";
 $databasename = "cbsphp";
 
 $conn = mysqli_connect($servername, $username, $password, $databasename);
