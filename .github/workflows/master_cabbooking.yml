@@ -63,4 +63,4 @@ jobs:
           app-name: 'cabbooking'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_85B2256A200A4A5BA155A097BC583690 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_74E352A22A0A440BA6505CBB01DEB2BF }}
